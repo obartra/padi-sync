@@ -115,3 +115,7 @@ CI runs lint, the unit tests on Python 3.11 and 3.13, and the browser test, as p
 - **PADI's website can change.** The tool works through PADI's web pages because there's no public logbook API, so a redesign can break it. The read-back after each save is there to catch that.
 - **Estimates are suggestions.** The footage current estimate and the weather model values are offered as defaults for you to confirm, never logged silently.
 - **Not affiliated with PADI or Shearwater.**
+
+## License
+
+[MIT](LICENSE)

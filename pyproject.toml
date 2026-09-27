@@ -3,6 +3,7 @@ name = "padi-sync"
 version = "0.1.0"
 description = "Fill in your PADI logbook from a Shearwater dive computer, with weather, sea conditions and GoPro footage"
 requires-python = ">=3.11"
+license = "MIT"
 dependencies = ["playwright", "requests", "numpy", "opencv-python-headless"]
 
 [project.optional-dependencies]
